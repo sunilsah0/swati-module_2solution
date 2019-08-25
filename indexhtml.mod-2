@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Rough assignment 2</title>
+	<link rel="stylesheet" href="css.css">
+	<meta charset="UTF-8">
+</head>
+<body>
+	<div>
+		<center><h1>Our Menu</h1></center>
+	</div>
+	<div class="box">
+		<div id="Chicken" class="inbox">
+			Chicken
+		</div>
+		<div class="paragraph">
+			<p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>
+		</div>
+	</div>
+
+	<div class="box">
+		<div id="Beef" class="inbox">
+			Beef
+		</div>
+		<div class="paragraph">
+			<p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>
+		</div>
+	</div>
+
+	<div class="box">
+		<div id="Sushi" class="inbox">
+			Sushi
+		</div>
+		<div class="paragraph">
+			<p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.</p>
+		</div>
+	</div>
+</body>
+</html>
